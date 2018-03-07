@@ -1,4 +1,4 @@
-# IoT_Project_NTU
+# IoT Project NTU
 
 This is an IoT project made for the class Introduction to Internet of Things at National Taiwan University.
 We make use of Arduino, Bluetooth, Azure DB, Power BI and Azure ML.
